@@ -6,5 +6,5 @@
 
 - [Celeste](https://store.steampowered.com/app/504230/Celeste/)
 - Rainbow Six Siege - 
-- ![Geometry Dash](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeometrygame.org%2F&psig=AOvVaw1lvDee3GElN2xiMJonDTng&ust=1724796133087000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjJ_LvUk4gDFQAAAAAdAAAAABAE)
+- ![Geometry Dash](https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_of_Geometry_Dash.svg/1200px-Logo_of_Geometry_Dash.svg.png)
   
