@@ -2,9 +2,6 @@
 
 -----
 
-## Favorite Games
-
-- [Celeste](https://store.steampowered.com/app/504230/Celeste/)
-- Rainbow Six Siege
-- Geometry Dash ![Geometry Dash](https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_of_Geometry_Dash.svg/1200px-Logo_of_Geometry_Dash.svg.png)
-  
+## Favorite Website
+[RIT](https://www.rit.edu)
+![RIT](https://pbs.twimg.com/profile_images/1171468021900034058/Gu1RX0aR_400x400.jpg)
