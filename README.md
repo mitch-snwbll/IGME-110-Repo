@@ -4,8 +4,8 @@
 
 ## Favorite Games
 
-- Celeste
-- Rainbow Six Siege
+- [Celeste] - (https://store.steampowered.com/app/504230/Celeste/)
+- Rainbow Six Siege - 
 - Geometry Dash
 
   
