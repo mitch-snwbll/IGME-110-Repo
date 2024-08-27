@@ -16,7 +16,7 @@
 
 - [Valorant](https://playvalorant.com/en-us/)
 
-![Val](https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/03/Valorant.png?fit=1200%2C675&ssl=1)
+![Val](https://static.toiimg.com/thumb/msid-93499204,width-400,resizemode-4/93499204.jpg)
 
 - [Overwatch 2](https://overwatch.blizzard.com/en-us/)
 
