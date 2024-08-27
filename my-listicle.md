@@ -16,7 +16,7 @@
 
 - [Valorant](https://playvalorant.com/en-us/)
 
-![Val](https://www.riotgames.com/darkroom/1440/8d5c497da1c2eeec8cffa99b01abc64b:5329ca773963a5b739e98e715957ab39/ps-f2p-val-console-launch-16x9.jpg)
+![Val](https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/03/Valorant.png?fit=1200%2C675&ssl=1)
 
 - [Overwatch 2](https://overwatch.blizzard.com/en-us/)
 
